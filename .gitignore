@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Raw and processed data are large; download instructions are in the README
+data/raw/*.xlsx
+data/processed/*.csv
